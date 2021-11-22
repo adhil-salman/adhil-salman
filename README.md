@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhil-salman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front ende development - HTML & CSS
+- 🌱 I’m currently learning front end development - HTML & CSS
 - 💞️ I’m looking to collaborate on any projects that require volunteers
 - 📫 How to reach me - email adhilzxy@gmail.com
 
